@@ -13,3 +13,11 @@ body {
     color: black;
     font-size: 30px;
 }
+.cursor {
+    width: 10rem;
+    height: 10rem;
+    background: #ffffff;
+    border-radius: 50%;
+    position: absolute;
+    mix-blend-mode: difference;
+}
